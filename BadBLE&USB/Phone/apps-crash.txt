@@ -1,7 +1,7 @@
 REM Author: @unveroleone | https://github.com/veroleone
 REM Sends long text strings repeatedly
 DELAY 1000
-STRING Messages
+STRING Porn hub
 ENTER
 DELAY 2000
 STRING AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
