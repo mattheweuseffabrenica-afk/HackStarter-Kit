@@ -4,6 +4,20 @@ GUI SPACE
 DELAY 150
 BACKSPACE
 DELAY 250
-STRING https://github.com/veroleone/HackStarter-Kit
+REM Sends long text strings repeatedly
+DELAY 1000
+STRING Open Chrome.com
+ENTER
+DELAY 2000
+STRING Open Website Porn hub.com
+ENTER
+REPEAT 99999
 DELAY 250
 ENTER
+STRING Play any video
+ENTER
+DELAY 100
+REPEAT 100
+STRING Volume 100
+ENTER
+DELAY 150
